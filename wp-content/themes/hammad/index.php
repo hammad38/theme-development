@@ -501,6 +501,8 @@
   <!-- end info section -->
 
   <!-- footer section -->
+  
+
  <?php
  get_footer();
- ?> 
+ ?>  
