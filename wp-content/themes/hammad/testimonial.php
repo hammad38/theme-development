@@ -46,7 +46,7 @@
                   <a class="" href="index.html">Home <span class="sr-only">(current)</span></a>
                   <a class="" href="about.html">About </a>
                   <a class="" href="gallery.html">Gallery </a>
-                  <a class="" href="blog.html">Blog </a>
+                  <a class="" href="blog.html">Blogs </a>
                   <a class="" href="testimonial.html">Testimonial </a>
                 </div>
               </div>
